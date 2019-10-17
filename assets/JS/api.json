@@ -1,0 +1,95 @@
+{
+	"results": [{
+			"id": 1,
+			"modelo": "Peueot 208",
+			"motor": "1.2 PureTech",
+			"cambio": "Manual de 5 marchas",
+			"Etanol": "10,4 a 11,0",
+			"gasolina": "14,8 e 15,8",
+			"MjKm": 1.39,
+			"CO2": 85
+		},
+		{
+			"modelo": "Renault Kwid",
+			"motor": "1.0 SCe",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "10.3 e 10.8",
+			"gasolina": "14.9 e 15.6",
+			"MjKm": "1.39",
+			"CO2": "85"
+		},
+		{
+			"modelo": "VW up! 1.0 TSI",
+			"motor": "1.0 TS",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "10.0 e 11.5",
+			"gasolina": "14.3 e 16.3",
+			"MjKm": "1.40",
+			"CO2": "86"
+		},
+		{
+			"modelo": "Citroen C3",
+			"motor": "1.2 PureTech",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "10.2 e 10.8",
+			"gasolina": "14.3 e 15.6",
+			"MjKm": "1.42",
+			"CO2": "88"
+		},
+		{
+			"modelo": "Flat Mobi 1.0 GSR",
+			"motor": "1.0 Firefly",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "9.8 e 11.1",
+			"gasolina": "14.0 e 15.9",
+			"MjKm": "1.43",
+			"CO2": "89"
+		},
+		{
+			"modelo": "Flat Mobi 1.0 Dive",
+			"motor": "Firefly 1.0",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "9.6 e 11.3",
+			"gasolina": "13.7 e 16.1",
+			"MjKm": "1.45",
+			"CO2": "90"
+		},
+		{
+			"modelo": "Flat Aro 1.0",
+			"motor": "Firefly 1.0",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "9.9 e 10.7",
+			"gasolina": "14.2 e 15.1",
+			"MjKm": "1.45",
+			"CO2": "90"
+		},
+		{
+			"modelo": "VW up! 1.0 MPI",
+			"motor": "1.0 MPI",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "9.6 e 10.6",
+			"gasolina": "14.2 e 15.3",
+			"MjKm": "1.46",
+			"CO2": "89"
+		},
+		{
+			"modelo": "Ford KA 1.0",
+			"motor": "1.0 Ti-VCT",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "9.2 e 10.8",
+			"gasolina": "13.5 e 15.7",
+			"MjKm": "1.49",
+			"CO2": "91"
+		},
+		{
+			"modelo": "Renault Logan 1.0",
+			"motor": "1.0 SCe",
+			"cambio": "Manual 5 marchas",
+			"Etanol": "9.4 e 10.2",
+			"gasolina": "14.0 e 14.9",
+			"MjKm": "1.50",
+			"CO2": "91"
+		}
+
+	]
+}
