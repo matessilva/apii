@@ -75,3 +75,8 @@ button {
     height: 25px;
     margin: 5px 5px;
 }
+
+.informacoes {
+    display: flex;
+    flex-direction: row;
+}

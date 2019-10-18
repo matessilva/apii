@@ -9,15 +9,21 @@
     console.log(caminho);
     var corp = doc.querySelector("#Corpo")
     caminho.forEach(function (item) {
-      var Modelo = document.createElement("P");
+      var Modelo = document.createElement("h3");
       var motor = document.createElement("P");
       var cambio = document.createElement("P");
       var etanol = document.createElement("P");
       var gasolina = document.createElement("P");
       var Kim = document.createElement("P");
       var Co2 = document.createElement("P");
-      var div = document.createElement('div');
-      div.setAttribute('class', 'carros');
+      var contCar = document.createElement('div');
+      contCar.setAttribute('class', 'container-carro');
+      var NomeC = document.createElement('div');
+      NomeC.setAttribute('class', 'nomeIma');
+      var inforSup = document.createElement('div');
+      inforSup.setAttribute('class', 'informacoes inforSup');
+      var inforInf = document.createElement('div');
+      inforInf.setAttribute('class', 'informacoes inforInf');
 
       Modelo.innerHTML = item.modelo;
       motor.innerHTML = item.motor;
@@ -27,15 +33,18 @@
       Kim.innerHTML = item.MjKm;
       Co2.innerHTML = item.CO2;
 
-      div.appendChild(Modelo);
-      div.appendChild(motor);
-      div.appendChild(cambio);
-      div.appendChild(etanol);
-      div.appendChild(gasolina);
-      div.appendChild(Kim);
-      div.appendChild(Co2);
+      NomeC.appendChild(Modelo);
+      inforSup.appendChild(motor);
+      inforSup.appendChild(cambio);
+      inforSup.appendChild(etanol);
+      inforInf.appendChild(gasolina);
+      inforInf.appendChild(Kim);
+      inforInf.appendChild(Co2);
 
-      doc.querySelector("#Corpo").appendChild(div);
+      contCar.appendChild(NomeC);
+      contCar.appendChild(inforSup);
+      contCar.appendChild(inforInf);
+      doc.querySelector("#Corpo").appendChild(contCar);
 
     })
     /*  mail.innerHTML = response.data.results["0"].email;
