@@ -1,3 +1,30 @@
+/* (function (win, doc) {
+    'use strict'
+
+
+    function DOM(elements) {
+        this.element = document.querySelectorAll(elements);
+    }
+
+    DOM.prototype.on = function on(string) {
+
+    };
+    DOM.prototype.off = function off() {};
+    DOM.prototype.get = function get() {
+        return this.element;
+    };
+
+    var $a = new DOM('[data-js="link"]');
+    $a.on("click", function (e) {
+        e.preventDefault();
+        console.log("clicou");
+    });
+
+    console.log("Elementos selecionados:", $a.get());
+    console.log("$a é filho de body?", $a.get()[0].parentNode === document.body);
+})(window, document)
+ */
+
 (function (win, doc) {
   //Endpoint via axios
 
