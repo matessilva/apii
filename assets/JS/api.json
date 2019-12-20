@@ -1,6 +1,6 @@
 {
 	"results": [{
-			"id": "1",
+			"id": 1,
 			"modelo": "Peueot 208",
 			"motor": "1.2 PureTech",
 			"cambio": "Manual de 5 marchas",
@@ -12,7 +12,7 @@
 			"desc": "Suspensão dianteira, Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal. Suspensão traseira, Suspensão tipo eixo de torção, roda tipo semi-independente e molas helicoidal. Freios Dois freios à disco."
 		},
 		{
-			"id": "2",
+			"id": 2,
 			"modelo": "Renault Kwid",
 			"motor": "1.0 SCe",
 			"cambio": "Manual 5 marchas",
@@ -24,7 +24,7 @@
 			"desc": "Suspensão dianteira, Suspensão tipo McPherson, roda tipo independente e molas helicoidal.Suspensão traseira, Suspensão tipo eixo de torção, roda tipo semi-independente e molas helicoidal. Freios, Dois freios à disco."
 		},
 		{
-			"id": "3",
+			"id": 3,
 			"modelo": "VW up! 1.0 TSI",
 			"motor": "1.0 TS",
 			"cambio": "Manual 5 marchas",
@@ -36,7 +36,7 @@
 			"desc": "Suspensão dianteira. Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal. Suspensão traseira. Suspensão tipo eixo de torção, roda tipo semi-independente e molas helicoidal."
 		},
 		{
-			"id": "4",
+			"id": 4,
 			"modelo": "Citroen C3",
 			"motor": "1.2 PureTech",
 			"cambio": "Manual 5 marchas",
@@ -49,7 +49,7 @@
 			
 		},
 		{
-			"id": "5",
+			"id": 5,
 			"modelo": "Fiat Mobi 1.0 GSR",
 			"motor": "1.0 Firefly",
 			"cambio": "Manual 5 marchas",
@@ -61,7 +61,7 @@
 			"desc": "Suspensão dianteira, Suspensão tipo McPherson, roda tipo independente e molas helicoidal.Suspensão traseira, Suspensão tipo eixo de torção, roda tipo semi-independente e molas helicoidal."
 		},
 		{
-			"id": "6",
+			"id": 6,
 			"modelo": "Fiat Mobi 1.0 Dive",
 			"motor": "Firefly 1.0",
 			"cambio": "Manual 5 marchas",
@@ -75,7 +75,7 @@
 			
 		},
 		{
-			"id": "7",
+			"id": 7,
 			"modelo": "Fiat Argo 1.0",
 			"motor": "Firefly 1.0",
 			"cambio": "Manual 5 marchas",
@@ -87,7 +87,7 @@
 			"desc": "Suspensão dianteira, Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal. Suspensão traseira, Suspensão tipo eixo de torção, roda tipo semi-independente e molas helicoidal.Freios, Dois freios à disco."
 		},
 		{
-			"id": "8",
+			"id": 8,
 			"modelo": "VW up! 1.0 MPI",
 			"motor": "1.0 MPI",
 			"cambio": "Manual 5 marchas",
@@ -99,7 +99,7 @@
 			"desc": "Suspensão dianteira Suspensão tipo McPherson e dianteira com barra estabilizadora, roda tipo independente e molas helicoidal. Suspensão traseira, Suspensão tipo eixo de torção, roda tipo semi independente e molas helicoidal.Freios Dois freios à disco com dois discos ventilados."
 		},
 		{
-			"id": "9",
+			"id": 9,
 			"modelo": "Ford KA 1.0",
 			"motor": "1.0 Ti-VCT",
 			"cambio": "Manual 5 marchas",
@@ -111,7 +111,7 @@
 			"desc": "Falta colocar essa porra"
 		},
 		{
-			"id": "10",
+			"id": 10,
 			"modelo": "Renault Logan 1.0",
 			"motor": "1.0 SCe",
 			"cambio": "Manual 5 marchas",
