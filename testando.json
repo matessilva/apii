@@ -1,0 +1,25 @@
+{
+    "results":[{
+        "id":1,
+        "Tipo":"Jogador",
+        "img":"https://www.imagemhost.com.br/image/2OFBwK",
+        "Time":"Corinthians",
+        "Descrição":"Camiseta do Corinthians"
+       },
+       {
+        "id":2,
+        "Tipo":"Jogador",
+        "img":"https://www.imagemhost.com.br/image/2OFBwK",
+        "Time":"São Paulo",
+        "Descrição":"Camiseta do São Paulo"
+       },
+       {
+        "id":3,
+        "Tipo":"Jogador",
+        "img":"https://www.imagemhost.com.br/image/2OFBwK",
+        "Time":"Palmeiras",
+        "Descrição":"Camiseta do Palmeiras"
+       }
+       
+    ]
+}
